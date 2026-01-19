@@ -1,6 +1,6 @@
 # Hi, I'm Sean Dunleavy 👋
 
-Healthcare analytics professional transitioning to **Data Analyst / BI Developer** roles.  
+Healthcare analytics professional transitioning to **Data Analyst / BI Developer / Data Engineer** roles.  
 7+ years hands-on experience with SQL querying, dashboard building (Salesforce/Excel), root-cause analysis, and process optimization in regulated environments (HIPAA, 340B).  
 Currently building skills in Power BI, Tableau, Python (Pandas), and using generative AI (Grok/xAI) to accelerate query development and troubleshooting.
 
