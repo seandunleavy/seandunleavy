@@ -1,5 +1,9 @@
 # Hi, I'm Sean Dunleavy 👋
 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat&logo=microsoft&logoColor=white)
+
 Healthcare analytics professional transitioning to **Data Analyst / BI Developer / Data Engineer** roles.
 
 7+ years hands-on experience with advanced SQL querying, dashboard development (Salesforce/Excel), root-cause analysis, data wrangling, and process optimization in regulated environments (HIPAA, 340B).
