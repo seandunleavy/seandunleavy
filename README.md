@@ -1,30 +1,50 @@
 # Hi, I'm Sean Dunleavy 👋
 
-Healthcare analytics professional transitioning to **Data Analyst / BI Developer / Data Engineer** roles.  
-7+ years hands-on experience with SQL querying, dashboard building (Salesforce/Excel), root-cause analysis, and process optimization in regulated environments (HIPAA, 340B).  
-Currently building skills in Power BI, Tableau, Python (Pandas), and using generative AI (Grok/xAI) to accelerate query development and troubleshooting.
+Healthcare analytics professional transitioning to **Data Analyst / BI Developer / Data Engineer** roles.
 
-🔭 Currently working on: Portfolio projects in data visualization & EDA  
-🌱 Learning: Power BI dashboards, advanced SQL, Python for data wrangling  
-📈 Focused on: Turning data into actionable business insights  
+7+ years hands-on experience with advanced SQL querying, dashboard development (Salesforce/Excel), root-cause analysis, data wrangling, and process optimization in regulated environments (HIPAA, 340B).
+
+Actively building production-grade skills in Microsoft Fabric, Power BI, PySpark, Python (Pandas/Seaborn), and leveraging generative AI (Grok/xAI) to accelerate development, troubleshooting, and insights.
+
+🔭 Recently completed: End-to-end data pipelines, interactive dashboards, and EDA projects  
+🌱 Currently learning: Advanced DAX, Fabric Lakehouse patterns, CI/CD for data workflows  
+📈 Focused on: Scalable data engineering and turning complex data into actionable business value
 
 ## Skills & Tools
-- **Data Analysis**: SQL (Advanced Queries, SQL Server), EDA, Root Cause Analysis, Data Cleaning  
-- **Visualization & BI**: Salesforce Dashboards, Excel (Power Query, PivotTables), Power BI/Tableau (projects)  
-- **Programming**: Python (Pandas/NumPy basics), Java (OOP – A grade, 2020)  
-- **Productivity**: Generative AI (Grok/xAI for SQL optimization), Jira/Confluence, Agile/Scrum  
-- **Domain**: Healthcare Data (340B, EHR integration), Data Governance  
+- **Data Analysis**: Advanced SQL (SQL Server), EDA, Root Cause Analysis, Data Cleaning/Validation, JSON flattening  
+- **Visualization & BI**: Salesforce Dashboards/Reports, Excel (Power Query, PivotTables, Advanced Charts), Power BI (DAX, candlesticks, slicers, KPIs)  
+- **Programming**: Python (Pandas, NumPy, Seaborn), PySpark (notebooks for ingestion/transformation), Java (OOP familiarity)  
+- **Productivity & Engineering**: Generative AI (Grok/xAI, Gemini) for query optimization & prompt engineering, Microsoft Fabric (pipelines, Lakehouse), Jira/Confluence, Agile/Scrum  
+- **Domain**: Healthcare Data (340B, EHR integration, claims analysis), Data Governance/Quality
 
 ## Featured Projects
-Check out my pinned repositories below for hands-on work:  
-- Retail Sales Dashboard (Excel/Power BI) → Sales trends & KPI insights  - Coming Soon
-- Customer Segmentation EDA (Python/SQL) → RFM analysis & user patterns  - Coming Soon
-- Titanic Survival Analysis (Tableau/Excel) → Exploratory trends & visualizations  - Coming Soon
+Hands-on portfolio projects showcasing end-to-end analysis, visualization, and data engineering:
+
+1. **[Massive Stock Data Pipeline & Power BI Dashboard](https://github.com/seandunleavy/Massive-Stock-Pipeline-PowerBI)**  
+   Automated Microsoft Fabric pipeline fetching latest 30-day AAPL daily bars from Massive.com API.  
+   - PySpark notebooks for JSON flattening, cleaning, deduplication, and appending to growing Lakehouse Delta table  
+   - Interactive Power BI dashboard: candlestick/line charts, KPI cards (price, % change, volume), date slicers  
+   - End-to-end automation for up-to-date stock trend monitoring  
+   **Tech**: Microsoft Fabric, PySpark, Power BI (DAX), API integration
+
+2. **[Healthcare Insurance Claims Analysis](https://github.com/seandunleavy/Healthcare-Insurance-Claims-Analysis)**  
+   Exploratory data analysis on synthetic insurance claims to uncover cost drivers and patterns.  
+   - Cleaned/analyzed data with Python/Pandas/Seaborn; visualized distributions and correlations  
+   - Key insight: Smokers incur ~280% higher average charges than non-smokers  
+   **Tech**: Python, Pandas, Seaborn, Jupyter Notebooks
+
+3. **[Superstore Sales Dashboard](https://github.com/seandunleavy/Superstore-Sales-Dashboard)**  
+   Interactive dashboard analyzing Superstore sales for trends, regional performance, and KPIs.  
+   - Power Query for prep, PivotTables/charts for visuals, slicers for interactivity  
+   - Actionable insights on sales, profit, categories, and top performers  
+   **Tech**: Excel (Power Query, PivotTables, Slicers), Power BI concepts
+
+View all repositories → [github.com/seandunleavy?tab=repositories](https://github.com/seandunleavy?tab=repositories)
 
 ## Get in Touch
 - 📧 Email: seandunleavy@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/sean-dunleavy-0494098](https://www.linkedin.com/in/sean-dunleavy-0494098)  
-- 📄 Resume: Coming soon  
-- Location: Greer, SC (Open to remote/hybrid roles)  
+- 📄 Resume: [Link to your hosted resume, e.g., Google Drive / personal site / LinkedIn PDF – update when ready]  
+- 📍 Greer, SC (Open to remote, hybrid, or relocation in data roles)
 
-Thanks for visiting! Feel free to reach out if you're working on data projects or hiring in analytics.
+Thanks for stopping by! Open to collaborations, feedback, or opportunities in analytics/BI/DE. Let's connect if you're hiring or building cool data stuff. 🚀
