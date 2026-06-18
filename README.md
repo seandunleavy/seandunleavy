@@ -13,7 +13,7 @@
 
 Healthcare analytics professional transitioning to **Data Analyst / BI Developer / Data Engineer** roles.
 
-7+ years hands-on experience with advanced SQL querying, dashboard development (Salesforce/Excel), root-cause analysis, data wrangling, and process optimization in regulated environments (HIPAA, 340B).
+7+ years hands-on experience with SQL querying, dashboard development (Salesforce/Excel/Power BI), root-cause analysis, data wrangling, and process optimization in regulated environments (HIPAA, 340B).
 
 Actively building production-grade skills in Microsoft Fabric, Power BI, PySpark, Python (Pandas/Seaborn), and leveraging generative AI (Grok/xAI) to accelerate development, troubleshooting, and insights.
 
