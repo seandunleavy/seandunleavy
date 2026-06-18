@@ -55,7 +55,6 @@ View all repositories → [github.com/seandunleavy?tab=repositories](https://git
 ## Get in Touch
 - 📧 Email: sean@dunleavyorganization.com  
 - 🔗 LinkedIn: [linkedin.com/in/sean-dunleavy-0494098](https://www.linkedin.com/in/sean-dunleavy-0494098)  
-- 📄 Resume: [Link to your hosted resume, e.g., Google Drive / personal site / LinkedIn PDF – update when ready]  
 - 📍 Greer, SC (Open to remote, hybrid, or relocation in data roles)
 
 Thanks for stopping by! Open to collaborations, feedback, or opportunities in analytics/BI/DE. Let's connect if you're hiring or building cool data stuff. 🚀
