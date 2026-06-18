@@ -22,7 +22,7 @@ Actively building production-grade skills in Microsoft Fabric, Power BI, PySpark
 📈 Focused on: Scalable data engineering and turning complex data into actionable business value
 
 ## Skills & Tools
-- **Data Analysis**: Advanced SQL (SQL Server), EDA, Root Cause Analysis, Data Cleaning/Validation, JSON flattening  
+- **Data Analysis**: SQL (SQL Server), EDA, Root Cause Analysis, Data Cleaning/Validation, JSON flattening  
 - **Visualization & BI**: Salesforce Dashboards/Reports, Excel (Power Query, PivotTables, Advanced Charts), Power BI (DAX, candlesticks, slicers, KPIs)  
 - **Programming**: Python (Pandas, NumPy, Seaborn), PySpark (notebooks for ingestion/transformation), Java (OOP familiarity)  
 - **Productivity & Engineering**: Generative AI (Grok/xAI, Gemini) for query optimization & prompt engineering, Microsoft Fabric (pipelines, Lakehouse), Jira/Confluence, Agile/Scrum  
