@@ -53,7 +53,7 @@ Hands-on portfolio projects showcasing end-to-end analysis, visualization, and d
 View all repositories → [github.com/seandunleavy?tab=repositories](https://github.com/seandunleavy?tab=repositories)
 
 ## Get in Touch
-- 📧 Email: seandunleavy@gmail.com  
+- 📧 Email: sean@dunleavyorganization.com  
 - 🔗 LinkedIn: [linkedin.com/in/sean-dunleavy-0494098](https://www.linkedin.com/in/sean-dunleavy-0494098)  
 - 📄 Resume: [Link to your hosted resume, e.g., Google Drive / personal site / LinkedIn PDF – update when ready]  
 - 📍 Greer, SC (Open to remote, hybrid, or relocation in data roles)
