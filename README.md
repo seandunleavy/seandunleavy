@@ -21,6 +21,19 @@ Actively building production-grade skills in Microsoft Fabric, Power BI, PySpark
 🌱 Currently learning: Advanced DAX, Fabric Lakehouse patterns, CI/CD for data workflows  
 📈 Focused on: Scalable data engineering and turning complex data into actionable business value
 
+
+## Hiring managers / private repositories
+
+Several of my strongest production projects are in **private** GitHub repositories (company site, multi-ticker stock pipeline + dashboard, SinglePlayerGamers product).
+
+**I grant read-only access for recruiting reviews on request.**
+
+- Email: [sean@dunleavyorganization.com](mailto:sean@dunleavyorganization.com)
+- LinkedIn: [linkedin.com/in/sean-dunleavy-0494098](https://www.linkedin.com/in/sean-dunleavy-0494098)
+- Public demos and write-ups (no access needed): [dunleavyorganization.com/projects](https://www.dunleavyorganization.com/projects.html) · [Stock Market Dashboard](https://www.dunleavyorganization.com/stock-dashboard.html) · [SinglePlayerGamers.com](https://www.singleplayergamers.com)
+
+Please include your company and role when requesting access.
+
 ## Skills & Tools
 - **Data Analysis**: SQL (SQL Server), EDA, Root Cause Analysis, Data Cleaning/Validation, JSON flattening  
 - **Visualization & BI**: Salesforce Dashboards/Reports, Excel (Power Query, PivotTables, Advanced Charts), Power BI (DAX, candlesticks, slicers, KPIs)  
@@ -55,6 +68,6 @@ View all repositories → [github.com/seandunleavy?tab=repositories](https://git
 ## Get in Touch
 - 📧 Email: sean@dunleavyorganization.com  
 - 🔗 LinkedIn: [linkedin.com/in/sean-dunleavy-0494098](https://www.linkedin.com/in/sean-dunleavy-0494098)  
-- 📍 Greer, SC (Open to remote, hybrid, or relocation in data roles)
+- 📍 Greer, SC · available remotely nationwide (open to hybrid or relocation for the right role)
 
 Thanks for stopping by! Open to collaborations, feedback, or opportunities in analytics/BI/DE. Let's connect if you're hiring or building cool data stuff. 🚀
