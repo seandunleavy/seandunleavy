@@ -4,7 +4,7 @@
 
 I build and ship practical technology **end to end**: data pipelines, warehouses and tests, reporting, integrations, websites, and small applications — from requirements through production hosting.
 
-Background in **healthcare operations and analytics** (SQL, dashboards, regulated data). Recent work emphasizes **full delivery**: live products, automation, open-data pipelines, and self-hosted infrastructure — not only notebooks or slide decks.
+Background spans customer-facing work, healthcare operations and analytics, product and delivery roles, and building systems end to end. Recent public work emphasizes **full delivery**: live products, open-data pipelines, warehouses and tests, and self-hosted infrastructure — not only notebooks or slide decks.
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
