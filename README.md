@@ -94,11 +94,13 @@ Multi-page consulting site: project case studies, tools inventory, contact, GA4,
 
 | Project | Link |
 |---------|------|
-| Healthcare insurance claims EDA | [Healthcare-Insurance-Claims-Analysis](https://github.com/seandunleavy/Healthcare-Insurance-Claims-Analysis) |
-| Superstore sales dashboard (Excel) | [Superstore-Sales-Dashboard](https://github.com/seandunleavy/Superstore-Sales-Dashboard) |
+| CMS Part D specialty-cost analytics | [PartD-Specialty-Analytics](https://github.com/seandunleavy/PartD-Specialty-Analytics) |
+| Revenue analytics dashboard (sample data) | [revenue-analytics-dashboard](https://github.com/seandunleavy/revenue-analytics-dashboard) |
 | Healthcare market intelligence | [Healthcare-Market-Intelligence](https://github.com/seandunleavy/Healthcare-Market-Intelligence) |
+| Fabric / Power BI stock pipeline (v1) | [Massive-Stock-Pipeline-PowerBI](https://github.com/seandunleavy/Massive-Stock-Pipeline-PowerBI) |
 
 ---
+
 
 ## Skills
 
@@ -129,3 +131,5 @@ AI-assisted development with human review · plain-language delivery for non-tec
 - **Location:** Greer, SC · available remotely nationwide  
 
 Open to consulting projects and full-time roles where shipping real systems matters. Thanks for visiting.
+
+
