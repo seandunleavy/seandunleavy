@@ -1,5 +1,7 @@
 # Hi, I'm Sean Dunleavy
 
+<!-- Profile README for github.com/seandunleavy — see PROJECT_PLAN.md / PORTFOLIO.md / docs/ARCHITECTURE.md for maintenance docs (not shown on profile). -->
+
 **Founder, [The Dunleavy Organization, LLC](https://www.dunleavyorganization.com)** · Greer, SC · available remotely nationwide
 
 I build and ship practical technology **end to end**: data pipelines, warehouses and tests, reporting, integrations, websites, and small applications — from requirements through production hosting.
