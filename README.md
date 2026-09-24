@@ -25,7 +25,7 @@ Background spans customer-facing work, healthcare operations and analytics, prod
 
 ## Hiring managers / private repositories
 
-Several production projects are in **private** GitHub repos (company site, stock pipeline, SinglePlayerGamers, COL product).
+Several production projects are in **private** GitHub repos (SubOnSite, company site, stock pipeline, SinglePlayerGamers, COL product).
 
 **I grant read-only access for recruiting reviews on request.**
 
@@ -33,7 +33,7 @@ Several production projects are in **private** GitHub repos (company site, stock
 |--|--|
 | Email | [sean@dunleavyorganization.com](mailto:sean@dunleavyorganization.com) |
 | LinkedIn | [linkedin.com/in/sean-dunleavy-0494098](https://www.linkedin.com/in/sean-dunleavy-0494098) |
-| Public demos | [Projects](https://www.dunleavyorganization.com/projects.html) · [Stock Market Dashboard](https://www.dunleavyorganization.com/stock-dashboard.html) · [Climate Record](https://www.dunleavyorganization.com/project-climate-record.html) · [COL](https://costoflivingrealitycheck.com) · [SPG](https://www.singleplayergamers.com) |
+| Public demos | [Projects](https://www.dunleavyorganization.com/projects.html) · [SubOnSite](https://www.subonsite.com) · [Stock Market Dashboard](https://www.dunleavyorganization.com/stock-dashboard.html) · [Climate Record](https://www.dunleavyorganization.com/project-climate-record.html) · [COL](https://costoflivingrealitycheck.com) · [SPG](https://www.singleplayergamers.com) |
 
 Please include your company and role when requesting access.
 
@@ -41,7 +41,17 @@ Please include your company and role when requesting access.
 
 ## Featured projects (2026)
 
-### 1. [Climate Record Platform](https://www.dunleavyorganization.com/project-climate-record.html) — live explorer
+### 1. [SubOnSite](https://www.subonsite.com) — live product
+**Public site** · private source (access on request)
+
+Jobsite check-in: crew check in on the phone at the job. Owners see who is on site. Not payroll. Not a full project system. iPhone staff app on the App Store.
+
+| | |
+|--|--|
+| **Stack** | React, TypeScript, Supabase (Auth, Postgres, RLS), Cloudflare |
+| **Live** | [subonsite.com](https://www.subonsite.com) |
+
+### 2. [Climate Record Platform](https://www.dunleavyorganization.com/project-climate-record.html) — live explorer
 **Public demo on the company site** · product source on GitHub
 
 NOAA daily climate warehouse: quality-controlled medallion pipeline, star schema + marts, dbt tests (DuckDB), multi-chart explorer (degree-days, extremes, station map).
@@ -51,7 +61,7 @@ NOAA daily climate warehouse: quality-controlled medallion pipeline, star schema
 | **Stack** | Python, Pandas, Parquet, dbt, DuckDB, Chart.js, Leaflet, static JSON marts |
 | **Repo** | [ClimateRecordPlatform](https://github.com/seandunleavy/ClimateRecordPlatform) |
 
-### 2. [Cost of Living Reality Check](https://costoflivingrealitycheck.com) — live product
+### 3. [Cost of Living Reality Check](https://costoflivingrealitycheck.com) — live product
 **Public demo** · private source (access on request)
 
 Wage + cost-of-living explorer: official BLS/BEA sources, Explore vs Offer modes, U.S. choropleth map, FastAPI backend on home-lab hosting.
@@ -61,7 +71,7 @@ Wage + cost-of-living explorer: official BLS/BEA sources, Explore vs Offer modes
 | **Stack** | Polars, FastAPI, Pydantic, MapLibre, Caddy, systemd, GA4 |
 | **Case study** | [Project page](https://www.dunleavyorganization.com/project-costofliving.html) |
 
-### 3. [Stock Market Dashboard](https://www.dunleavyorganization.com/stock-dashboard.html) — live product
+### 4. [Stock Market Dashboard](https://www.dunleavyorganization.com/stock-dashboard.html) — live product
 **Public demo** · private source (access on request)
 
 Multi-ticker dashboard: nightly API → SQL Server → published snapshot → Overview / Detail / Compare UI. Earlier generation used Fabric + Power BI.
@@ -72,7 +82,7 @@ Multi-ticker dashboard: nightly API → SQL Server → published snapshot → Ov
 | **Case study** | [Project write-up](https://www.dunleavyorganization.com/project-stock-dashboard.html) |
 | **Earlier (public)** | [Fabric / Power BI AAPL pipeline](https://github.com/seandunleavy/Massive-Stock-Pipeline-PowerBI) |
 
-### 4. [SinglePlayerGamers.com](https://www.singleplayergamers.com) — live product
+### 5. [SinglePlayerGamers.com](https://www.singleplayergamers.com) — live product
 **Public demo** · private source (access on request)
 
 Single-player game discovery: dual catalog, accounts & My List, newsletter, Stuck Assist, production HTTPS, Capacitor Android path.
@@ -82,7 +92,7 @@ Single-player game discovery: dual catalog, accounts & My List, newsletter, Stuc
 | **Stack** | HTML/CSS/JS, Supabase (Auth, Postgres, RLS, Edge Functions), Resend, Cloudflare, Caddy |
 | **Case study** | [Project page](https://www.dunleavyorganization.com/project-singleplayergamers.html) |
 
-### 5. [DunleavyOrganization.com](https://www.dunleavyorganization.com) — company site
+### 6. [DunleavyOrganization.com](https://www.dunleavyorganization.com) — company site
 **Live** · private source (access on request)
 
 Multi-page consulting site: project case studies, tools inventory, contact, GA4, Cloudflare + Caddy deploy automation.
